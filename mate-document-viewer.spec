@@ -1,11 +1,11 @@
 Summary:	Document viewer for multiple document formats
 Name:		mate-document-viewer
-Version:	1.6.1
+Version:	1.6.2
 Release:	1
 License:	GPL v2
 Group:		X11/Applications
-Source0:	http://pub.mate-desktop.org/releases/1.6/mate-document-viewer-1.6.1.tar.xz
-# Source0-md5:	43b48465f51934421e2d63be42769689
+Source0:	http://pub.mate-desktop.org/releases/1.6/%{name}-%{version}.tar.xz
+# Source0-md5:	8805ad4b0818681c5871d36bb77f8a74
 URL:		http://www.gnome.org/projects/evince/
 BuildRequires:	autoconf
 BuildRequires:	automake
